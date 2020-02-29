@@ -11,3 +11,6 @@ body > div{
 body > div::first-letter{
   font-size: 90px;
 }
+body > h1:first-child{
+  text-align:center;
+}
